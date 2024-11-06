@@ -8,6 +8,8 @@ from random import choice
 from utils import opening_text
 from pprint import pprint
 import openai
+
+
 openai.api_key = '****'
 
 
